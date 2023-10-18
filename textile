@@ -1,0 +1,14 @@
+user@DESKTOP-NDLSGLR MINGW64 ~ (main)
+$ git remote add origin https://github.com/jhyun114/git-practice.git
+error: remote origin already exists.
+user@DESKTOP-NDLSGLR MINGW64 ~ (main)
+$ git remote -v
+origin  https://github.com/jhyun114/git-practice.git (fetch)
+origin  https://github.com/jhyun114/git-practice.git (push)
+originn https://github.com/jhyun114/git-practice.git (fetch)
+originn https://github.com/jhyun114/git-practice.git (push)
+
+user@DESKTOP-NDLSGLR MINGW64 ~ (main)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/jhyun114/git-practice.git'
