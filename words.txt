@@ -1,0 +1,12 @@
+school
+class
+home
+new
+lecture
+
+university
+class
+home
+new
+lecture
+
