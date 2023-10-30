@@ -2,4 +2,8 @@ first edition
 second edition
 third edition
 issue resloved
+<<<<<<< HEAD
 hotfix my solution
+=======
+Hotfix team's solution
+>>>>>>> origin/master
